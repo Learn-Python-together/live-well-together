@@ -1,0 +1,58 @@
+// 签署协议 - 证明
+
+==================================================================
+https://keybase.io/caozhiming
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://livewell.caozm.tk
+  * I am caozhiming (https://keybase.io/caozhiming) on keybase.
+  * I have a public key ASC_9hwK4NuYCIgKZ3Rt-pW6V4c917416RTzvzUvUg0zLAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012edc2e1362f5580daa95d0354aff958d0e5e6fc9fc7a90745a1d00e44a18e4f00a",
+      "host": "keybase.io",
+      "kid": "0120bff61c0ae0db9808880a67746dfa95ba57873dd7be35e914f3bf352f520d332c0a",
+      "uid": "04425bd61d3019005b11207187599919",
+      "username": "caozhiming"
+    },
+    "merkle_root": {
+      "ctime": 1678032884,
+      "hash": "d128ebf885ead7bee8ee221f6d16feab4852455ac49d243ca77d20f1c652f5abb6709cfee8ccf70f158b2a0eee64bae9f56fffe3e65db8b06fea639c7b9722f2",
+      "hash_meta": "8fac779569390fb2cc9507558d689d6a710fddee5d4792ca133f7076378f3af4",
+      "seqno": 24149684
+    },
+    "service": {
+      "entropy": "3UZl5wGByTeP91TjHURFFEuH",
+      "hostname": "livewell.caozm.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1678032925,
+  "expire_in": 504576000,
+  "prev": "7ee14ed5fc9f0642be15b61812c93d72faa25167f18ae44fec5d99c838fa62bc",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgv/YcCuDbmAiICmd0bfqVuleHPde+NekU8781L1INMywKp3BheWxvYWTESpcCVMQgfuFO1fyfBkK+FbYYEsk9cvqiUWfxiuRP7F2ZyDj6YrzEIP8aqFlUdohRD05ynJopI/GNglKiuGnSUq8Qb3thW5wlAgHCo3NpZ8RAp3vJIjKrMpMyiJdVoxsCO2cwecoOHw/ljPaKRkR2XdnfGC2efxl/mfmPg77y9z3gdMIGZP2jjQu4mN3XIAu/DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH5/xvVdKwukEV/XjUgPxMVTU+VnJgv9Zyht93PLHJ0wo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caozhiming
+
+==================================================================
