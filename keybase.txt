@@ -1,5 +1,67 @@
 // 签署协议 - 证明
 
+
+==================================================================
+https://keybase.io/geeker_lstar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://livewell.caozm.tk
+  * I am geeker_lstar (https://keybase.io/geeker_lstar) on keybase.
+  * I have a public key ASAOmLv57fdAEjNy15SICwxKBtab-JyzuX1wRrpNNcYK1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200e98bbf9edf740123372d794880b0c4a06d69bf89cb3b97d7046ba4d35c60ad60a",
+      "host": "keybase.io",
+      "kid": "01200e98bbf9edf740123372d794880b0c4a06d69bf89cb3b97d7046ba4d35c60ad60a",
+      "uid": "356725c89ff2160c03a35b346dbee819",
+      "username": "geeker_lstar"
+    },
+    "merkle_root": {
+      "ctime": 1678202941,
+      "hash": "0ebbf85993c2d690743d307edd7053db4ac2514baef12b9bde4e962f66f8b2ff8d5d6b1d1f44dda3e08b70b6913bbd3ec34f3d50d13307e653918288e6b69026",
+      "hash_meta": "0eafde1990c213e0af33e6e0fa89afaaa6b0af00c57d665cfa84225b6335a119",
+      "seqno": 24159671
+    },
+    "service": {
+      "entropy": "j3IK9esGEhvXlEJ7od7Iio5M",
+      "hostname": "livewell.caozm.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1678203009,
+  "expire_in": 504576000,
+  "prev": "1b8a15ca893eb5a7a667584e1932d3011de8da3f991bff8c7761cb6851bbab6f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDpi7+e33QBIzcteUiAsMSgbWm/ics7l9cEa6TTXGCtYKp3BheWxvYWTESpcCBsQgG4oVyok+taemZ1hOGTLTAR3o2j+ZG/+Md2HLaFG7q2/EIHxw/f6iblXoxo8aRr8Dq8qbaEEU2g6cfayDouyWPfUUAgHCo3NpZ8RAswLNVyz2ujfgXYQ/X2wNKSfH5qXLvYyWBGWyKUjOgD8LygFLI8ojJ4s++zBybjHQubZ886J6cZWV0a0guvdOBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINElZE1PXvpxyW7jNjfIXW93Zxusy5ntKYKozVZL8rFEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/geeker_lstar
+
+==================================================================
+
+
+
+
+
 ==================================================================
 https://keybase.io/caozhiming
 --------------------------------------------------------------------
